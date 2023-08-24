@@ -90,7 +90,7 @@ print("RMSE= ",rmse)
 
 
 ## Training Set Graph
-![image](https://github.com/DHARINIPV/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119400845/2759bf17-0511-489c-abec-266fc884934c)
+![image](https://github.com/DHARINIPV/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119400845/a962564d-55dd-4d81-9f92-5e7f2b31abb6)
 
 
 ## Test Set Graph
